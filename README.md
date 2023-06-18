@@ -6,6 +6,6 @@ A Streamlit-based application to visualizes Electric Vehicle charging stations a
 Just clone/fork this repository and use the code as-is. Then add this environnement variable to your application :
 
 ```
-CC_RUN_COMMAND = streamlit run app.py
+CC_RUN_COMMAND = streamlit run src/app.py
 ```
 Thus, the application will start with this command, listening to port 9000 (as configured in `.streamlit/config.toml`).
