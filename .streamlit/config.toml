@@ -1,0 +1,6 @@
+[server]
+port = 9000
+
+[browser]
+serverAddress = "0.0.0.0"
+gatherUsageStats = false
